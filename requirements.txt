@@ -1,5 +1,5 @@
 sty==1.0.0b11
-tqdm==4.35.0
+tqdm==4.66.3
 wfuzz==2.4
 shodan==1.23.0
 requests==2.21.0
